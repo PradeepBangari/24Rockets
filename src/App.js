@@ -5,6 +5,7 @@ import Home from '../src/components/Home';
 import Solutions from '../src/components/Solutions';
 import About from '../src/components/About';
 import Contact from '../src/components/Contact';
+import ResearchAgent from '../src/components/ResearchAgent';
 import Footer from '../src/components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -18,6 +19,7 @@ function App() {
           <Route path="/solutions" element={<Solutions />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/research" element={<ResearchAgent />} />
         </Routes>
         <Footer />
     </Router>

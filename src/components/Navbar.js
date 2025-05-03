@@ -28,6 +28,9 @@ function Navbar() {
               <Link className="nav-link px-3 text-dark" to="/solutions">Solutions</Link>
             </li>
             <li className="nav-item">
+              <Link className="nav-link px-3 text-dark" to="/research">Research</Link>
+            </li>
+            <li className="nav-item">
               <Link className="nav-link px-3 text-dark" to="/about">About</Link>
             </li>
             <li className="nav-item">

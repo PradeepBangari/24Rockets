@@ -14,7 +14,6 @@ function Footer() {
             <h5>Contact</h5>
             <p className="small">
               <Link> Email: 24rockets.mail@gmail.com</Link><br />
-              Phone: +91 9900990099
             </p>
           </div>
           <div className="col-md-4">

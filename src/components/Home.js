@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import marsMission from '../images/mars-mission.jpg';
 import habitat from '../images/habitat.jpg';
 import resourceExtraction from '../images/resource-extraction.jpg';
@@ -13,7 +14,7 @@ function Home() {
             <div className="col-md-6">
               <h1 className="display-3 fw-bold">Mars Mission Solutions</h1>
               <p className="lead">Pioneering the Future of Mars Exploration</p>
-              <a href="/solutions" className="btn btn-primary btn-lg shadow">Explore Solutions</a>
+              <Link to="/solutions" className="btn btn-primary btn-lg shadow">Explore Solutions</Link>
             </div>
             <div className="col-md-6 text-center">
               <img src={marsMission} alt="Mars Mission" className="img-fluid shadow" style={{ maxWidth: '300px' }} />
