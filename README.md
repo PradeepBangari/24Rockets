@@ -1,4 +1,4 @@
-# Mars Colonization Webapp 🚀
+# Mars Colonization Reasearch 🚀
 
 ## 🔗 Live
 
@@ -6,7 +6,7 @@ Check out the live website [here](https://24rockets.cloud)!
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React
+- **Frontend:** React.Js
 
 ## 🌟 Features
 
@@ -18,8 +18,11 @@ Check out the live website [here](https://24rockets.cloud)!
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <img src="src/image/homepage.png" alt="Screenshot 1" style="border: 2px solid #ddd; border-radius: 4px; padding: 4px; max-width: calc(50% - 20px);">
+  --------------------------------------------------------------------------------------------------------------------------------------------------------
   <img src="src/image/self.png" alt="Screenshot 2" style="border: 2px solid #ddd; border-radius: 4px; padding: 4px; max-width: calc(50% - 20px);">
+  --------------------------------------------------------------------------------------------------------------------------------------------------------
   <img src="src/image/solutions.png" alt="Screenshot 3" style="border: 2px solid #ddd; border-radius: 4px; padding: 4px; max-width: calc(50% - 20px);">
+  --------------------------------------------------------------------------------------------------------------------------------------------------------
   <img src="src/image/agent.png" alt="Screenshot 4" style="border: 2px solid #ddd; border-radius: 4px; padding: 4px; max-width: calc(50% - 20px);">
 </div>
 
@@ -31,8 +34,7 @@ Going to Mars is the most exciting endeavor for me. To save the human race, Mars
 
 This project is a result of my passion for space exploration and innovation. Feel free to connect with me:
 
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Email](mailto:pradeepbangari24@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pradeep-bangari24/)
 
 ## 🤝 Contributing
 
